@@ -1,4 +1,4 @@
 # Dora
 Dora is platform for web application development
 
-<img src="https://filebin.net/8v435ccbsmaq48nt/photo5852949799563801737.jpg?t=xyf2gafo" style="width:100px;height:100px">
+<img src="https://filebin.net/fxm3y0qi8fm8o0ye/letter-d-octopus-.jpg?t=8gy6iwlg" style="width:100px;height:100px">
