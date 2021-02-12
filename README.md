@@ -1,4 +1,7 @@
 # Dora
-Dora is platform for web application development
+Dora is an open platform for building powerful web app in Golang
 
-<img src="https://filebin.net/fxm3y0qi8fm8o0ye/letter-d-octopus-.jpg?t=8gy6iwlg" style="width:50px;height:50px">
+Dora is a platform for rapidly developing web apps on Golang backends. 
+Build scalable UIs in Golang with Drag & Drop, and use the integrated tooling,
+components and design system to iterate faster, 
+design better and simplify the development process ....
