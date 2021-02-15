@@ -1,7 +1,6 @@
 
 <p align="center">
-<img src="https://filebin.net/qq8474mnwyoqxpih/Screenshot_2021-02-15_O_DORA.png?t=kbg1a2pl
-" alt="Dora" />
+<img src="https://filebin.net/qq8474mnwyoqxpih/Screenshot_2021-02-15_O_DORA.png?t=kbg1a2pl" alt="Dora" />
 <br />
 
 # Dora
