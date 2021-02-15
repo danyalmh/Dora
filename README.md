@@ -66,4 +66,4 @@ DanyalMh [@danyalmh](https://github.com/danyalmh)
 
 ## License
 
-`sniper` source code is available under the MIT [License](/LICENSE).
+`Dora` source code is available under the MIT [License](/LICENSE).
