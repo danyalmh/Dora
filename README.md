@@ -44,7 +44,7 @@ func main() {
 
 	routing.GET("/dora/reactive", func(dctx *dorahttp.Dctx) []byte {
 
-		return dctx.Response(dorahttp.StatusOK, "hello Reactive World .........")
+		return dctx.Response(dorahttp.StatusOK, "hello Reactive World ....")
 	})
 
 
@@ -56,14 +56,6 @@ func main() {
 ```
 
 
-## Limitations
-
-* not complete now
-
 ## Contact
 
 DanyalMh [@danyalmh](https://github.com/danyalmh)
-
-## License
-
-`Dora` source code is available under the MIT [License](/LICENSE).
